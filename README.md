@@ -1,3 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Blanc Manger QQ
 
-## Available Scripts
+This project was used to learn React development
