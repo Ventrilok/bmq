@@ -10,7 +10,7 @@
     "@material-ui/icons": "^4.9.1",
     "@testing-library/jest-dom": "^5.5.0",
     "@testing-library/react": "^10.0.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "boardgame.io": "^0.39.9",
     "esm": "^3.2.25",
     "jquery": "^3.5.0",
